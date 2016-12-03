@@ -1,4 +1,7 @@
 # Toaster
+
+![alt text](screenshots/toasticon.png "icon")
+
 Toaster is a Java API allowing developpers to create Notifications (smartphone like toast messages) in their Java Programs.
 
 ## Why Toaster ?
@@ -24,7 +27,7 @@ Now you are ready to create toast ! Use one of the multiple Toast method provide
     
 ## What you could get
 	 
-   ![alt text](screenshots/toast.png "sample")
+   ![alt text](screenshots/toasts.png "sample")
               
 ## Javadoc
 
